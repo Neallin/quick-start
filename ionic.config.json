@@ -1,0 +1,7 @@
+{
+  "name": "QuickStart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
